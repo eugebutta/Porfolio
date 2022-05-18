@@ -1,0 +1,11 @@
+.View {
+  display: flex;
+  margin-top: 5%;
+}
+
+.TituloProject {
+  height: 145px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
